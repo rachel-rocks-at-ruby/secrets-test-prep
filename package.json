@@ -9,6 +9,9 @@
     "pg-hstore": "^2.3.2",
     "sequelize": "^3.26.0"
   },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "devDependencies": {
     "nodemon": "^1.11.0"
   }
